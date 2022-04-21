@@ -18,7 +18,12 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-
+    <style name="CustomCalendarMonth" parent="Theme.TravelApp">
+        <item name="android:textColorPrimary">@color/pink</item>
+    </style>
+    <style name="CustomCalendar" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="colorAccent">@color/pink</item>
+    </style>
     <style name="Theme.TravelApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.TravelApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />

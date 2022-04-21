@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597607233663",
+    "firebase_url": "https://travelapp-bb87e-default-rtdb.firebaseio.com",
+    "project_id": "travelapp-bb87e",
+    "storage_bucket": "travelapp-bb87e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597607233663:android:227d56191f408cb523a74a",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597607233663-u6qthoh1atksocbk6345sfug22ik09np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK10OFVzsXL-pxcAkCXaQYZY6mfJzB4vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597607233663-u6qthoh1atksocbk6345sfug22ik09np.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597607233663-0p2crfs4lm8lt6nvia899l9o0r65hq1k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "madzia.TravelApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

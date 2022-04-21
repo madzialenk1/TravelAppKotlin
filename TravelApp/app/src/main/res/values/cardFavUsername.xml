@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardFavUsernames">
+        <item>
+            Magda P
+        </item>
+        <item>
+            Marta K
+        </item>
+        <item>
+            Łukasz Brzoza
+        </item>
+    </string-array>
+</resources>
